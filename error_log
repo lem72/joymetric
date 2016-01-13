@@ -1,0 +1,118 @@
+[08-Oct-2012 17:45:18] PHP Fatal error:  Cannot use object of type CI_DB_mysql_result as array in /home/joymetri/public_html/application/controllers/joy.php on line 47
+[10-Oct-2012 23:44:49] PHP Fatal error:  Call to undefined function  logged_in() in /home/joymetri/public_html/application/views/header.php on line 19
+[11-Oct-2012 01:20:20] PHP Fatal error:  Call to undefined function  redirect() in /home/joymetri/public_html/application/controllers/admin.php on line 9
+[11-Oct-2012 01:21:14] PHP Fatal error:  Call to undefined function  redirect() in /home/joymetri/public_html/application/controllers/admin.php on line 9
+[11-Oct-2012 01:21:16] PHP Fatal error:  Call to undefined function  redirect() in /home/joymetri/public_html/application/controllers/admin.php on line 9
+[16-Oct-2012 23:58:43] PHP Fatal error:  Cannot use object of type CI_DB_mysql_result as array in /home/joymetri/public_html/application/views/admin.php on line 12
+[17-Oct-2012 00:00:40] PHP Fatal error:  Cannot use object of type CI_DB_mysql_result as array in /home/joymetri/public_html/application/views/admin.php on line 19
+[17-Oct-2012 00:02:43] PHP Fatal error:  Cannot use object of type stdClass as array in /home/joymetri/public_html/application/views/admin.php on line 20
+[17-Oct-2012 00:03:22] PHP Fatal error:  Cannot use object of type stdClass as array in /home/joymetri/public_html/application/views/admin.php on line 20
+[17-Oct-2012 00:04:02] PHP Fatal error:  Cannot use object of type stdClass as array in /home/joymetri/public_html/application/views/admin.php on line 20
+[17-Oct-2012 00:04:02] PHP Fatal error:  Cannot use object of type stdClass as array in /home/joymetri/public_html/application/views/admin.php on line 20
+[17-Oct-2012 00:04:02] PHP Fatal error:  Cannot use object of type stdClass as array in /home/joymetri/public_html/application/views/admin.php on line 20
+[17-Oct-2012 00:06:15] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home/joymetri/public_html/application/views/admin.php on line 20
+[17-Oct-2012 00:06:15] PHP Parse error:  syntax error, unexpected ']', expecting ',' or ';' in /home/joymetri/public_html/application/views/admin.php on line 20
+[17-Oct-2012 00:06:30] PHP Parse error:  syntax error, unexpected '}' in /home/joymetri/public_html/application/views/admin.php on line 21
+[17-Oct-2012 00:56:39] PHP Parse error:  syntax error, unexpected T_STRING in /home/joymetri/public_html/application/views/admin.php on line 16
+[17-Oct-2012 11:16:17] PHP Parse error:  syntax error, unexpected '<' in /home/joymetri/public_html/application/views/admin.php on line 31
+[17-Oct-2012 11:23:07] PHP Parse error:  syntax error, unexpected '?' in /home/joymetri/public_html/application/views/admin.php on line 32
+[17-Oct-2012 11:23:55] PHP Parse error:  syntax error, unexpected ')' in /home/joymetri/public_html/application/views/admin.php on line 32
+[17-Oct-2012 11:25:28] PHP Parse error:  syntax error, unexpected ')' in /home/joymetri/public_html/application/views/admin.php on line 32
+[17-Oct-2012 11:28:02] PHP Parse error:  syntax error, unexpected T_ECHO in /home/joymetri/public_html/application/views/admin.php on line 32
+[17-Oct-2012 11:30:02] PHP Parse error:  syntax error, unexpected T_STRING in /home/joymetri/public_html/application/views/admin.php on line 32
+[17-Oct-2012 11:31:49] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/joymetri/public_html/application/views/admin.php on line 32
+[17-Oct-2012 11:32:32] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/joymetri/public_html/application/views/admin.php on line 32
+[17-Oct-2012 23:51:52] PHP Parse error:  syntax error, unexpected '?' in /home/joymetri/public_html/application/views/admin.php on line 16
+[24-Oct-2012 00:10:20] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/joymetri/public_html/application/views/admin.php on line 36
+[25-Oct-2012 01:33:28] PHP Fatal error:  Call to a member function result() on a non-object in /home/joymetri/public_html/application/views/admin.php on line 26
+[05-Apr-2013 16:18:57] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/joymetri/public_html/application/controllers/joy.php on line 81
+[05-Apr-2013 16:21:13] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/joymetri/public_html/application/controllers/joy.php on line 81
+[05-Apr-2013 16:21:14] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/joymetri/public_html/application/controllers/joy.php on line 81
+[30-Apr-2013 11:48:54] PHP Fatal error:  Class 'OAuth' not found in /home/joymetri/public_html/application/controllers/deskoauth.php on line 28
+[30-Apr-2013 11:49:29] PHP Fatal error:  Class 'OAuth' not found in /home/joymetri/public_html/application/controllers/deskoauth.php on line 28
+[30-Apr-2013 13:36:08] PHP Fatal error:  Class 'OAuth' not found in /home/joymetri/public_html/application/controllers/deskoauth.php on line 28
+[30-Apr-2013 13:40:23] PHP Fatal error:  Class 'OAuth' not found in /home/joymetri/public_html/application/controllers/deskoauth.php on line 28
+[30-Apr-2013 13:40:25] PHP Fatal error:  Class 'OAuth' not found in /home/joymetri/public_html/application/controllers/deskoauth.php on line 28
+[30-Apr-2013 13:40:26] PHP Fatal error:  Class 'OAuth' not found in /home/joymetri/public_html/application/controllers/deskoauth.php on line 28
+[30-Apr-2013 13:40:27] PHP Fatal error:  Class 'OAuth' not found in /home/joymetri/public_html/application/controllers/deskoauth.php on line 28
+[30-Apr-2013 13:40:58] PHP Fatal error:  Class 'OAuth' not found in /home/joymetri/public_html/application/controllers/deskoauth.php on line 28
+[30-Apr-2013 13:42:19] PHP Fatal error:  Class 'OAuth' not found in /home/joymetri/public_html/application/controllers/deskoauth.php on line 28
+[30-Apr-2013 13:42:30] PHP Fatal error:  Class 'OAuth' not found in /home/joymetri/public_html/application/controllers/deskoauth.php on line 28
+[30-Apr-2013 13:43:44] PHP Fatal error:  Class 'OAuth' not found in /home/joymetri/public_html/application/controllers/deskoauth.php on line 28
+[30-Apr-2013 13:43:54] PHP Fatal error:  Class 'OAuth' not found in /home/joymetri/public_html/application/controllers/deskoauth.php on line 28
+[30-Apr-2013 13:48:59] PHP Fatal error:  Class 'OAuth' not found in /home/joymetri/public_html/application/controllers/deskoauth.php on line 27
+[30-Apr-2013 13:49:06] PHP Fatal error:  Class 'OAuth' not found in /home/joymetri/public_html/application/controllers/deskoauth.php on line 28
+[30-Apr-2013 13:49:14] PHP Fatal error:  Class 'HTTP_OAuth' not found in /home/joymetri/public_html/application/controllers/deskoauth.php on line 28
+[30-Apr-2013 13:56:02] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/joymetri/public_html/application/controllers/deskoauth.php on line 16
+[30-Apr-2013 13:57:27] PHP Fatal error:  Class 'OAuth' not found in /home/joymetri/public_html/application/controllers/deskoauth.php on line 31
+[30-Apr-2013 13:58:34] PHP Fatal error:  Class 'OAuth' not found in /home/joymetri/public_html/application/controllers/deskoauth.php on line 31
+[30-Apr-2013 13:58:35] PHP Fatal error:  Class 'OAuth' not found in /home/joymetri/public_html/application/controllers/deskoauth.php on line 31
+[30-Apr-2013 13:58:36] PHP Fatal error:  Class 'OAuth' not found in /home/joymetri/public_html/application/controllers/deskoauth.php on line 31
+[30-Apr-2013 14:22:03] PHP Fatal error:  Class 'OAuth' not found in /home/joymetri/public_html/application/controllers/deskoauth.php on line 31
+[30-Apr-2013 14:26:26] PHP Fatal error:  Class 'OAuth' not found in /home/joymetri/public_html/application/controllers/deskoauth.php on line 31
+[30-Apr-2013 14:46:58] PHP Fatal error:  Class 'OAuth' not found in /home/joymetri/public_html/application/controllers/deskoauth.php on line 31
+[30-Apr-2013 14:47:00] PHP Fatal error:  Class 'OAuth' not found in /home/joymetri/public_html/application/controllers/deskoauth.php on line 31
+[30-Apr-2013 14:47:01] PHP Fatal error:  Class 'OAuth' not found in /home/joymetri/public_html/application/controllers/deskoauth.php on line 31
+[30-Apr-2013 14:47:22] PHP Fatal error:  Class 'OAuth' not found in /home/joymetri/public_html/application/controllers/deskoauth.php on line 31
+[30-Apr-2013 14:49:59] PHP Fatal error:  Class 'OAuth' not found in /home/joymetri/public_html/Oauth.php on line 16
+[30-Apr-2013 14:50:46] PHP Fatal error:  Class 'OAuth' not found in /home/joymetri/public_html/Oauth.php on line 16
+[30-Apr-2013 14:51:18] PHP Fatal error:  Class 'OAuth' not found in /home/joymetri/public_html/Oauth.php on line 16
+[30-Apr-2013 14:51:20] PHP Fatal error:  Class 'OAuth' not found in /home/joymetri/public_html/Oauth.php on line 16
+[30-Apr-2013 14:53:42] PHP Fatal error:  Class 'OAuth' not found in /home/joymetri/public_html/application/controllers/deskoauth.php on line 33
+[30-Apr-2013 15:01:15] PHP Fatal error:  Class 'OAuth' not found in /home/joymetri/public_html/application/controllers/deskoauth.php on line 33
+[30-Apr-2013 15:05:38] PHP Fatal error:  Class 'OAuth' not found in /home/joymetri/public_html/application/controllers/deskoauth.php on line 33
+[30-Apr-2013 16:03:08] PHP Fatal error:  Class 'OAuth' not found in /home/joymetri/public_html/application/controllers/deskoauth.php on line 33
+[30-Apr-2013 16:23:28] PHP Fatal error:  Class 'OAuth' not found in /home/joymetri/public_html/application/controllers/deskoauth.php on line 33
+[30-Apr-2013 16:30:28] PHP Fatal error:  Class 'OAuth' not found in /home/joymetri/public_html/application/controllers/deskoauth.php on line 33
+[30-Apr-2013 16:33:08] PHP Fatal error:  Class 'OAuth' not found in /home/joymetri/public_html/application/controllers/deskoauth.php on line 33
+[30-Apr-2013 16:36:51] PHP Fatal error:  Class 'OAuth' not found in /home/joymetri/public_html/application/controllers/deskoauth.php on line 33
+[30-Apr-2013 18:08:44] PHP Fatal error:  Class 'OAuth' not found in /home/joymetri/public_html/application/controllers/deskoauth.php on line 33
+[30-Apr-2013 18:09:55] PHP Fatal error:  Class 'OAuth' not found in /home/joymetri/public_html/application/controllers/deskoauth.php on line 33
+[30-Apr-2013 18:14:00] PHP Fatal error:  Class 'OAuth' not found in /home/joymetri/public_html/application/controllers/deskoauth.php on line 33
+[30-Apr-2013 18:17:05] PHP Fatal error:  Class 'OAuth' not found in /home/joymetri/public_html/application/controllers/deskoauth.php on line 33
+[30-Apr-2013 18:29:57] PHP Fatal error:  Class 'OAuth' not found in /home/joymetri/public_html/application/controllers/deskoauth.php on line 33
+[30-Apr-2013 18:42:50] PHP Fatal error:  Class 'OAuth' not found in /home/joymetri/public_html/application/controllers/deskoauth.php on line 33
+[30-Apr-2013 18:54:41] PHP Fatal error:  Class 'OAuth' not found in /home/joymetri/public_html/application/controllers/deskoauth.php on line 33
+[30-Apr-2013 19:13:07] PHP Fatal error:  Class 'OAuth' not found in /home/joymetri/public_html/application/controllers/deskoauth.php on line 33
+[30-Apr-2013 23:15:51] PHP Fatal error:  Class 'OAuth' not found in /home/joymetri/public_html/application/controllers/deskoauth.php on line 33
+[01-May-2013 09:18:11] PHP Fatal error:  Class 'OAuth' not found in /home/joymetri/public_html/application/controllers/deskoauth.php on line 33
+[01-May-2013 09:19:18] PHP Fatal error:  Class 'OAuth' not found in /home/joymetri/public_html/application/controllers/deskoauth.php on line 33
+[01-May-2013 09:19:21] PHP Fatal error:  Class 'OAuth' not found in /home/joymetri/public_html/application/controllers/deskoauth.php on line 33
+[01-May-2013 09:19:44 America/Chicago] PHP Fatal error:  Class 'OAuth' not found in /home/joymetri/public_html/application/controllers/deskoauth.php on line 33
+[01-May-2013 09:19:46 America/Chicago] PHP Fatal error:  Class 'OAuth' not found in /home/joymetri/public_html/application/controllers/deskoauth.php on line 33
+[01-May-2013 09:20:02 America/Chicago] PHP Fatal error:  Class 'OAuth' not found in /home/joymetri/public_html/application/controllers/deskoauth.php on line 33
+[01-May-2013 09:21:24 America/Chicago] PHP Parse error:  syntax error, unexpected T_ECHO, expecting T_FUNCTION in /home/joymetri/public_html/deskoauth.php on line 17
+[01-May-2013 09:22:28 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[01-May-2013 09:22:28 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[01-May-2013 09:22:28 America/Chicago] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[01-May-2013 09:22:28 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[01-May-2013 09:22:28 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[01-May-2013 09:22:28 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[01-May-2013 09:22:28 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[01-May-2013 09:22:28 America/Chicago] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[01-May-2013 09:22:28 America/Chicago] PHP Warning:  phpinfo() [<a href='function.phpinfo'>function.phpinfo</a>]: It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/Chicago' for 'CDT/-5.0/DST' instead in /home/joymetri/public_html/hginfo.php on line 1
+[06-Nov-2013 17:36:33] PHP Fatal error:  Call to a member function result() on a non-object in /home/joymetri/public_html/application/views/admin/comments.php on line 34
